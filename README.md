@@ -1,42 +1,49 @@
 # 🌌 Personagens de Star Wars
 
-Projeto desenvolvido para praticar desenvolvimento web utilizando HTML, CSS e JavaScript.
+Aplicação web desenvolvida para praticar desenvolvimento Front-end utilizando HTML, CSS e JavaScript.
 
-## 🚀 Sobre o projeto
+## Sobre o projeto
 
-Uma aplicação web que permite consultar e visualizar informações sobre personagens do universo de Star Wars.
+O projeto permite consultar e visualizar informações sobre personagens do universo de Star Wars.
 
-O projeto utiliza uma API para buscar os dados dos personagens e apresenta as informações de forma dinâmica na página.
+Os dados são obtidos por meio de uma API e apresentados dinamicamente na página, utilizando JavaScript para realizar as requisições, manipular o DOM e atualizar a interface.
 
-## 🛠️ Tecnologias utilizadas
+A aplicação também possui paginação e exibe informações adicionais dos personagens em uma janela modal.
+
+## Tecnologias utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
 * Fetch API
 * DOM
-* Git e GitHub
+* Git
+* GitHub
+* Netlify
 
-## 📚 Conceitos praticados
+## Conceitos praticados
 
 * Manipulação do DOM
 * Consumo de API
 * Requisições com `fetch()`
+* Funções e parâmetros
 * Estruturas condicionais
 * Eventos
+* Criação dinâmica de elementos
+* Paginação
+* Modal
 * Organização de arquivos
 * Responsividade
-* Estruturação de páginas web
 
-## 🎯 Objetivo
+## Objetivo
 
-Este projeto faz parte da minha evolução no desenvolvimento web e foi desenvolvido com o objetivo de colocar em prática conceitos de Front-End e JavaScript.
+Este projeto faz parte da minha evolução no desenvolvimento Front-end e foi desenvolvido para colocar em prática conceitos de JavaScript, consumo de APIs e manipulação do DOM.
 
-## 🌐 Projeto online
+## Projeto online
 
 [Visualizar projeto](https://tourmaline-gecko-b67960.netlify.app/)
 
-## 👨‍💻 Autor
+## Autor
 
 Jefferson Viana Sousa
 
