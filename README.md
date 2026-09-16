@@ -10,25 +10,23 @@ O projeto utiliza uma API para buscar os dados dos personagens e apresenta as in
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- API
-- Fetch API
-- DOM
-- Git e GitHub
+* HTML5
+* CSS3
+* JavaScript
+* Fetch API
+* DOM
+* Git e GitHub
 
 ## 📚 Conceitos praticados
 
-- Manipulação do DOM
-- Consumo de API
-- fetch
-- JavaScript
-- Estruturas condicionais
-- Eventos
-- Organização de arquivos
-- Responsividade
-- Estruturação de páginas web
+* Manipulação do DOM
+* Consumo de API
+* Requisições com `fetch()`
+* Estruturas condicionais
+* Eventos
+* Organização de arquivos
+* Responsividade
+* Estruturação de páginas web
 
 ## 🎯 Objetivo
 
