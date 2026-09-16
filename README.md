@@ -22,7 +22,7 @@ O projeto utiliza uma API para buscar os dados dos personagens e apresenta as in
 
 - Manipulação do DOM
 - Consumo de API
-- fetch()
+- fetch
 - JavaScript
 - Estruturas condicionais
 - Eventos
