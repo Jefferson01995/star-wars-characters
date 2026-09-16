@@ -73,6 +73,21 @@ function formatBirthYear(year) { // API > character.born > formatBirthyear() > 1
     return `${year} ABY`;
 }
 
+function genero(gender) {
+
+    if (gender === "male") {
+        return 'Masculino';
+    }
+
+    if (gender === "female") {
+        return 'Feminino';
+    }
+    
+    if (gender === "unknown") {
+        return 'Desconhecido'
+    }
+ }
+
 function displayCharacters() { // pega os dados em characters, e decide quais personagens devem aparecer naquela página.
     mainContent.innerHTML = ''; // limpa os cards anteriores 
 
@@ -112,6 +127,7 @@ function displayCharacters() { // pega os dados em characters, e decide quais pe
                 <p><strong>Peso:</strong> ${character.mass} kg</p>
                 <p><strong>Cor dos Olhos:</strong> ${translateEyeColor(character.eyeColor)}</p>
                 <p><strong>Nascimento:</strong> ${formatBirthYear(character.born)}</p>
+                <p><strong>Gênero:</strong> ${genero(character.gender)}</p>
             `;
 
             modal.style.visibility = 'visible'; // responsavel por mostrar o modal na tela
